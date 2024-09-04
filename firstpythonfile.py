@@ -1,0 +1,2 @@
+#joł
+print("joł joł")
